@@ -1,0 +1,1 @@
+hello from logout by Auth.php
